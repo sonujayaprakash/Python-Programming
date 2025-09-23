@@ -3,3 +3,4 @@ a = ["Salih","Alappi","Rashap","Jaasu","Amir","Alee","Sonu",1,5.3,True]
 print(2)
 a[1] = "Alan"
 print(a)
+print(a[5:7]) # indexing is also possible
