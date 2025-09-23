@@ -7,3 +7,7 @@ c = (1,"hello", 2.5,False,"World")
 # different datatypes can be present in the tuples
 
 num = a.count(3)
+print(num) # this will check the no: of times 3 is present in the tuple
+
+ind = a.index(8) # this will give the index of 8
+print(ind)
