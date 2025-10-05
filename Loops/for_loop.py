@@ -10,3 +10,5 @@ a = "Sidharth"
 
 for s in a:
     print(s)
+else :
+    print("done")
